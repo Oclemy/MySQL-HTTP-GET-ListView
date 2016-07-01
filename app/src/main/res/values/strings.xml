@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MySQL HTTP GET ListView</string>
+    <string name="action_settings">Settings</string>
+</resources>
